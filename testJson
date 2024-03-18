@@ -12,20 +12,6 @@
 				"contentfragment_3":"test-classColumn test-classColumn--default--3",
 				"contentfragment_4":"test-classColumn test-classColumn--default--4",
 			},
-			"allowedComponents":{
-				"components":
-				[
-				{
-				"path":"content/content1",
-				"title":"content 1"
-				},
-				{
-				"path":"content/content2",
-				"title":"content 2"
-				}
-				],
-				"applicable":false
-			},
 			"itemsOrder":[
 			"contentfragment_1",
 			"contentfragment_2",
