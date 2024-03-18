@@ -1,0 +1,200 @@
+{
+"tempType":"testDataTemp",
+"title":"testingA1",
+":itemsOrder":["root"],
+"items":{
+	"root":{
+			"ColCount":10,
+			"testClassNames":"test-class1 test-class2",
+			"columnClassNames":{
+				"contentfragment_1":"test-classColumn test-classColumn--default--1",
+				"contentfragment_2":"test-classColumn test-classColumn--default--2",
+				"contentfragment_3":"test-classColumn test-classColumn--default--3",
+				"contentfragment_4":"test-classColumn test-classColumn--default--4",
+			},
+			"allowedComponents":{
+				"components":
+				[
+				{
+				"path":"content/content1",
+				"title":"content 1"
+				},
+				{
+				"path":"content/content2",
+				"title":"content 2"
+				}
+				],
+				"applicable":false
+			},
+			"itemsOrder":[
+			"contentfragment_1",
+			"contentfragment_2",
+			"contentfragment_3",
+			"contentfragment_4"
+			],
+			"items":{
+				"contentfragment2":{
+					"title":"test2",
+					"description":"test content frag 2",
+					"elements":{
+						"prodCode":{
+							"title":"prod code",
+							"datatype":"string",
+							"value":"ABC",
+							":type":"string"
+						},
+						"subProdCode":{
+							"title":"sub prod code",
+							"datatype":"string",
+							"value":"10",
+							":type":"string"
+						},
+						"testData4":{
+							"title":"testData4",
+							"datatype":"string",
+							"value":"test Data 4",
+							":type":"string"
+						},	
+						"testData5":{
+							"title":"testData5",
+							"datatype":"string",
+							"value":"test Data 5",
+							":type":"string"
+						},	
+						"testData6":{
+							"title":"testData6",
+							"datatype":"string",
+							"paragraphs":[""],
+							":type":"text/html"
+						}
+						
+						
+					}
+					
+				},
+				"contentfragment1":{
+					"title":"test1",
+					"description":"test content frag 1",
+					"elements":{
+						"prodCode":{
+							"title":"prod code",
+							"datatype":"string",
+							"value":"ABC",
+							":type":"string"
+						},
+						"subProdCode":{
+							"title":"sub prod code",
+							"datatype":"string",
+							"value":"12",
+							":type":"string"
+						},
+						"testData1":{
+							"title":"testData1",
+							"datatype":"string",
+							"value":"test Data 1",
+							":type":"string"
+						},	
+						"testData2":{
+							"title":"testData2",
+							"datatype":"string",
+							"value":"test Data 2",
+							":type":"string"
+						},	
+						"testData3":{
+							"title":"testData3",
+							"datatype":"string",
+							"paragraphs":[""],
+							":type":"text/html"
+						}
+						
+						
+					}
+					
+				},
+				"contentfragment4":{
+					"title":"test4",
+					"description":"test content frag 4",
+					"elements":{
+						"prodCode":{
+							"title":"prod code",
+							"datatype":"string",
+							"value":"ABC",
+							":type":"string"
+						},
+						"subProdCode":{
+							"title":"sub prod code",
+							"datatype":"string",
+							"value":"14",
+							":type":"string"
+						},
+						"testData7":{
+							"title":"testData7",
+							"datatype":"string",
+							"value":"test Data 7",
+							":type":"string"
+						},	
+						"testData8":{
+							"title":"testData8",
+							"datatype":"string",
+							"value":"test Data 8",
+							":type":"string"
+						},	
+						"testData9":{
+							"title":"testData9",
+							"datatype":"string",
+							"paragraphs":[""],
+							":type":"text/html"
+						}
+						
+						
+					}
+					
+				},
+				"contentfragment3":{
+					"title":"test3",
+					"description":"test content frag 4",
+					"elements":{
+						"prodCode":{
+							"title":"prod code",
+							"datatype":"string",
+							"value":"ABC",
+							":type":"string"
+						},
+						"subProdCode":{
+							"title":"sub prod code",
+							"datatype":"string",
+							"value":"13",
+							":type":"string"
+						},
+						"testData10":{
+							"title":"testData10",
+							"datatype":"string",
+							"value":"test Data 10",
+							":type":"string"
+						},	
+						"testData11":{
+							"title":"testData11",
+							"datatype":"string",
+							"value":"test Data 11",
+							":type":"string"
+						},	
+						"testData12":{
+							"title":"testData12",
+							"datatype":"string",
+							"paragraphs":[""],
+							":type":"text/html"
+						}
+						
+						
+					}
+					
+				}
+				
+				
+				
+			},
+			":type":"test/testgrid1"
+		   }
+		},
+		"type":"test/page"
+}
