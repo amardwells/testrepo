@@ -79,7 +79,7 @@
 						"prodCode":{
 							"title":"prod code",
 							"datatype":"string",
-							"value":"ABC",
+							"value":"ABCD",
 							":type":"string"
 						},
 						"subProdCode":{
@@ -157,7 +157,7 @@
 						"prodCode":{
 							"title":"prod code",
 							"datatype":"string",
-							"value":"ABC",
+							"value":"ABCF",
 							":type":"string"
 						},
 						"subProdCode":{
